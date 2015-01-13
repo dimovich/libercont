@@ -1,0 +1,480 @@
+id,parent_id/id,code,type,name,reconcile,user_type/id
+md_acc_0,,0,View,Planul de Conturi,FALSE,account.data_account_type_view
+md_acc_00001,md_acc_0,1,Regular,Fictiv,TRUE,account.data_account_type_view
+md_acc_10000,md_acc_0,10000,View,ACTIVE IMOBILIZATE ,TRUE,account.data_account_type_view
+md_acc_11000,md_acc_10000,11000,View,IMOBILIZĂRI NECORPORALE,TRUE,account.data_account_type_view
+md_acc_11100,md_acc_11000,11100,Regular,Imobilizări necorporale în curs de execuţie ,TRUE,account.data_account_type_view
+md_acc_11200,md_acc_11000,11200,Regular,Imobilizări necorporale ,TRUE,account.data_account_type_view
+md_acc_11210,md_acc_11200,11210,Regular,Drepturi de autor şi titluri de protecţie,TRUE,account.data_account_type_view
+md_acc_11220,md_acc_11200,11220,Regular,Brevete şi mărci,TRUE,account.data_account_type_view
+md_acc_11230,md_acc_11200,11230,Regular,Know-how-uri şi francize,TRUE,account.data_account_type_view
+md_acc_11240,md_acc_11200,11240,Regular,Licenţe de activitate,TRUE,account.data_account_type_view
+md_acc_11250,md_acc_11200,11250,Regular,Programe informatice,TRUE,account.data_account_type_view
+md_acc_11260,md_acc_11200,11260,Regular,Desene şi modele industriale,TRUE,account.data_account_type_view
+md_acc_11270,md_acc_11200,11270,Regular,Drepturi de utilizare a activelor imobilizate,TRUE,account.data_account_type_view
+md_acc_11280,md_acc_11200,11280,Regular,Imobilizări necorporale primite în gestiune economică,TRUE,account.data_account_type_view
+md_acc_11290,md_acc_11200,11290,Regular,Alte imobilizări necorporale,TRUE,account.data_account_type_view
+md_acc_11300,md_acc_11000,11300,Regular,Amortizarea imobilizărilor necorporale,TRUE,account.data_account_type_view
+md_acc_11310,md_acc_11300,11310,Regular,Amortizarea drepturilor de autor şi titlurilor de protecţie,TRUE,account.data_account_type_view
+md_acc_11320,md_acc_11300,11320,Regular,Amortizarea brevetelor şi mărcilor,TRUE,account.data_account_type_view
+md_acc_11330,md_acc_11300,11330,Regular,Amortizarea know-how-urilor şi francizelor,TRUE,account.data_account_type_view
+md_acc_11340,md_acc_11300,11340,Regular,Amortizarea licenţelor de activitate,TRUE,account.data_account_type_view
+md_acc_11350,md_acc_11300,11350,Regular,Amortizarea programelor informatice,TRUE,account.data_account_type_view
+md_acc_11360,md_acc_11300,11360,Regular,Amortizarea desenelor şi modelelor industriale,TRUE,account.data_account_type_view
+md_acc_11370,md_acc_11300,11370,Regular,Amortizarea drepturilor de utilizare a activelor imobilizate,TRUE,account.data_account_type_view
+md_acc_11380,md_acc_11300,11380,Regular,Amortizarea imobilizărilor necorporale primite în gestiune economică,TRUE,account.data_account_type_view
+md_acc_11390,md_acc_11300,11390,Regular,Amortizarea altor imobilizări necorporale,TRUE,account.data_account_type_view
+md_acc_11400,md_acc_11000,11400,Regular,Deprecierea imobilizărilor necorporale,TRUE,account.data_account_type_view
+md_acc_12000,md_acc_10000,12000,View,IMOBILIZĂRI CORPORALE ,TRUE,account.data_account_type_view
+md_acc_12100,md_acc_12000,12100,View,Imobilizări corporale în curs de execuţie,TRUE,account.data_account_type_view
+md_acc_12110,md_acc_12100,12110,Regular,Construcţii în curs de execuţie,TRUE,account.data_account_type_view
+md_acc_12120,md_acc_12100,12120,Regular,Utilaj destinat instalării,TRUE,account.data_account_type_view
+md_acc_12130,md_acc_12100,12130,Regular,Imobilizări corporale pînă la punerea în utilizare,TRUE,account.data_account_type_view
+md_acc_12140,md_acc_12100,12140,Regular,Costuri ulterioare în curs de execuţie,TRUE,account.data_account_type_view
+md_acc_12200,md_acc_12000,12200,View,Terenuri,TRUE,account.data_account_type_view
+md_acc_12210,md_acc_12200,12210,Regular,Terenuri în curs de pregătire pentru utilizare prestabilită,TRUE,account.data_account_type_view
+md_acc_12220,md_acc_12200,12220,Regular,Terenuri fără construcţii,TRUE,account.data_account_type_view
+md_acc_12230,md_acc_12200,12230,Regular,Terenuri cu construcţii,TRUE,account.data_account_type_view
+md_acc_12240,md_acc_12200,12240,Regular,Terenuri cu zăcăminte,TRUE,account.data_account_type_view
+md_acc_12250,md_acc_12200,12250,Regular,Terenuri cu plantaţii perene,TRUE,account.data_account_type_view
+md_acc_12260,md_acc_12200,12260,Regular,Terenuri primite în gestiune economică,TRUE,account.data_account_type_view
+md_acc_12270,md_acc_12200,12270,Regular,Alte terenuri,TRUE,account.data_account_type_view
+md_acc_12300,md_acc_12000,12300,View,Mijloace fixe,TRUE,account.data_account_type_view
+md_acc_12310,md_acc_12300,12310,Regular,Clădiri,TRUE,account.data_account_type_view
+md_acc_12320,md_acc_12300,12320,Regular,Construcţii speciale,TRUE,account.data_account_type_view
+md_acc_12330,md_acc_12300,12330,Regular,Maşini utilaje şi instalaţii de transmisie ,TRUE,account.data_account_type_view
+md_acc_12340,md_acc_12300,12340,Regular,Mijloace de transport,TRUE,account.data_account_type_view
+md_acc_12350,md_acc_12300,12350,Regular,Instrumente şi inventar,TRUE,account.data_account_type_view
+md_acc_12360,md_acc_12300,12360,Regular,Costuri ulterioare aferente obiectelor neînregistrate în bilanţ ,TRUE,account.data_account_type_view
+md_acc_12370,md_acc_12300,12370,Regular,Mijloace fixe primite în leasing financiar,TRUE,account.data_account_type_view
+md_acc_12380,md_acc_12300,12380,Regular,Mijloace fixe primite în gestiune economică,TRUE,account.data_account_type_view
+md_acc_12390,md_acc_12300,12390,Regular,Alte mijloace fixe,TRUE,account.data_account_type_view
+md_acc_12400,md_acc_12000,12400,View,Amortizarea mijloacelor fixe,TRUE,account.data_account_type_view
+md_acc_12410,md_acc_12400,12410,Regular,Amortizarea clădirilor,TRUE,account.data_account_type_view
+md_acc_12420,md_acc_12400,12420,Regular,Amortizarea construcţiilor speciale,TRUE,account.data_account_type_view
+md_acc_12430,md_acc_12400,12430,Regular,Amortizarea maşinilor utilajelor şi instalaţiilor de transmisie ,TRUE,account.data_account_type_view
+md_acc_12440,md_acc_12400,12440,Regular,Amortizarea mijloacelor de transport,TRUE,account.data_account_type_view
+md_acc_12450,md_acc_12400,12450,Regular,Amortizarea instrumentelor şi inventarului,TRUE,account.data_account_type_view
+md_acc_12460,md_acc_12400,12460,Regular,Amortizarea costurilor ulterioare aferente obiectelor neînregistrate în bilanţ ,TRUE,account.data_account_type_view
+md_acc_12470,md_acc_12400,12470,Regular,Amortizarea mijloacelor fixe primite în leasing financiar,TRUE,account.data_account_type_view
+md_acc_12480,md_acc_12400,12480,Regular,Amortizarea mijloacelor fixe primite în gestiune economică,TRUE,account.data_account_type_view
+md_acc_12490,md_acc_12400,12490,Regular,Amortizarea altor mijloace fixe,TRUE,account.data_account_type_view
+md_acc_12500,md_acc_12000,12500,View,Resurse minerale,TRUE,account.data_account_type_view
+md_acc_12600,md_acc_12000,12600,Regular,Amortizarea şi deprecierea resurselor minerale,TRUE,account.data_account_type_view
+md_acc_12700,md_acc_12000,12700,Regular,Deprecierea imobilizărilor corporale în curs de execuţie,TRUE,account.data_account_type_view
+md_acc_12800,md_acc_12000,12800,Regular,Deprecierea terenurilor,TRUE,account.data_account_type_view
+md_acc_12900,md_acc_12000,12900,Regular,Deprecierea mijloacelor fixe,TRUE,account.data_account_type_view
+md_acc_13000,md_acc_10000,13000,View,ACTIVE BIOLOGICE IMOBILIZATE,TRUE,account.data_account_type_view
+md_acc_13100,md_acc_13000,13100,Regular,Active biologice imobilizate în curs de execuţie,TRUE,account.data_account_type_view
+md_acc_13200,md_acc_13000,13200,Regular,Active biologice imobilizate ,TRUE,account.data_account_type_view
+md_acc_13300,md_acc_13000,13300,View,Amortizarea şi deprecierea activelor biologice imobilizate,TRUE,account.data_account_type_view
+md_acc_13310,md_acc_13300,13310,Regular,Amortizarea activelor biologice imobilizate,TRUE,account.data_account_type_view
+md_acc_13320,md_acc_13300,13320,Regular,Deprecierea activelor biologice imobilizate,TRUE,account.data_account_type_view
+md_acc_14000,md_acc_10000,14000,View,INVESTIŢII FINANCIARE PE TERMEN LUNG ,TRUE,account.data_account_type_view
+md_acc_14100,md_acc_14000,14100,View,Investiţii financiare pe termen lung în părţi neafiliate,TRUE,account.data_account_type_view
+md_acc_14110,md_acc_14100,14110,Regular,Valori mobiliare,TRUE,account.data_account_type_view
+md_acc_14120,md_acc_14100,14120,Regular,Cote de participaţie,TRUE,account.data_account_type_view
+md_acc_14130,md_acc_14100,14130,Regular,Depozite,TRUE,account.data_account_type_view
+md_acc_14140,md_acc_14100,14140,Regular,Împrumuturi acordate ,TRUE,account.data_account_type_view
+md_acc_14150,md_acc_14100,14150,Regular,Alte investiţii financiare,TRUE,account.data_account_type_view
+md_acc_14200,md_acc_14000,14200,Regular,Investiţii financiare pe termen lung în părţi afiliate,TRUE,account.data_account_type_view
+md_acc_14210,md_acc_14200,14210,Regular,Valori mobiliare ,TRUE,account.data_account_type_view
+md_acc_14220,md_acc_14200,14220,Regular,Cote de participaţie,TRUE,account.data_account_type_view
+md_acc_14230,md_acc_14200,14230,Regular,Depozite,TRUE,account.data_account_type_view
+md_acc_14240,md_acc_14200,14240,Regular,Împrumuturi acordate,TRUE,account.data_account_type_view
+md_acc_14250,md_acc_14200,14250,Regular,Alte investiţii financiare,TRUE,account.data_account_type_view
+md_acc_15000,md_acc_10000,15000,View,INVESTIŢII IMOBILIARE,TRUE,account.data_account_type_view
+md_acc_15100,md_acc_15000,15100,Regular,Investiţii imobiliare,TRUE,account.data_account_type_view
+md_acc_15200,md_acc_15000,15200,Regular,Amortizarea şi deprecierea investiţiilor imobiliare,TRUE,account.data_account_type_view
+md_acc_15210,md_acc_15200,15210,Regular,Amortizarea investiţiilor imobiliare,TRUE,account.data_account_type_view
+md_acc_15220,md_acc_15200,15220,Regular,Deprecierea investiţiilor imobiliare,TRUE,account.data_account_type_view
+md_acc_16000,md_acc_10000,16000,View,CREANŢE ŞI AVANSURI ACORDATE PE TERMEN LUNG ,TRUE,account.data_account_type_view
+md_acc_16100,md_acc_16000,16100,View,Creanţe pe termen lung ,TRUE,account.data_account_type_view
+md_acc_16110,md_acc_16100,16110,Regular,Creanţe comerciale pe termen lung,TRUE,account.data_account_type_view
+md_acc_16120,md_acc_16100,16120,Regular,Creanţe pe termen lung privind leasingul,TRUE,account.data_account_type_view
+md_acc_16130,md_acc_16100,16130,Regular,Alte creanţe pe termen lung,TRUE,account.data_account_type_view
+md_acc_16200,md_acc_16000,16200,Regular,Avansuri acordate pe termen lung,TRUE,account.data_account_type_view
+md_acc_16210,md_acc_16200,16210,Regular,Avansuri acordate în ţară,TRUE,account.data_account_type_view
+md_acc_16220,md_acc_16200,16220,Regular,Avansuri acordate în străinătate,TRUE,account.data_account_type_view
+md_acc_17000,md_acc_10000,17000,View,ALTE ACTIVE IMOBILIZATE,TRUE,account.data_account_type_view
+md_acc_17100,md_acc_17000,17100,Regular,Cheltuieli anticipate pe termen lung,TRUE,account.data_account_type_view
+md_acc_17200,md_acc_17000,17200,Regular,Alte active imobilizate,TRUE,account.data_account_type_view
+md_acc_20000,md_acc_0,20000,View,ACTIVE CIRCULANTE,TRUE,account.data_account_type_view
+md_acc_21000,md_acc_20000,21000,View,STOCURI ,TRUE,account.data_account_type_view
+md_acc_21100,md_acc_21000,21100,View,Materiale,TRUE,account.data_account_type_view
+md_acc_21110,md_acc_21100,21110,Regular,Materii prime şi materiale de bază,TRUE,account.data_account_type_expense
+md_acc_21120,md_acc_21100,21120,Regular,Materiale auxiliare,TRUE,account.data_account_type_expense
+md_acc_21130,md_acc_21100,21130,Regular,Piese de schimb,TRUE,account.data_account_type_expense
+md_acc_21140,md_acc_21100,21140,Regular,Combustibil,TRUE,account.data_account_type_expense
+md_acc_21150,md_acc_21100,21150,Regular,Ambalaje,TRUE,account.data_account_type_expense
+md_acc_21160,md_acc_21100,21160,Regular,Anvelope şi acumulatoare procurate separat de mijloacele de transport,TRUE,account.data_account_type_expense
+md_acc_21170,md_acc_21100,21170,Regular,Materiale cu destinaţia agricolă,TRUE,account.data_account_type_expense
+md_acc_21180,md_acc_21100,21180,Regular,Materiale transmise temporar terţilor,TRUE,account.data_account_type_expense
+md_acc_21190,md_acc_21100,21190,Regular,Alte materiale ,TRUE,account.data_account_type_expense
+md_acc_21200,md_acc_21000,21200,Regular,Active biologice circulante,TRUE,account.data_account_type_view
+md_acc_21300,md_acc_21000,21300,Regular,Obiecte de mică valoare şi scurtă durată,TRUE,account.data_account_type_view
+md_acc_21310,md_acc_21300,21310,Regular,Obiecte de mică valoare şi scurtă durată în stoc,TRUE,account.data_account_type_view
+md_acc_21320,md_acc_21300,21320,Regular,Obiecte de mică valoare şi scurtă durată în exploatare,TRUE,account.data_account_type_view
+md_acc_21330,md_acc_21300,21330,Regular,Construcţii şi dispozitive provizorii,TRUE,account.data_account_type_view
+md_acc_21340,md_acc_21300,21340,Regular,Obiecte de mică valoare şi scurtă durată transmise temporar terţilor,TRUE,account.data_account_type_view
+md_acc_21400,md_acc_21000,21400,Regular,Uzura obiectelor de mică valoare şi scurtă durată,TRUE,account.data_account_type_view
+md_acc_21410,md_acc_21400,21410,Regular,Uzura obiectelor de mică valoare şi scurtă durată,TRUE,account.data_account_type_view
+md_acc_21420,md_acc_21400,21420,Regular,Uzura construcţiilor şi dispozitivelor provizorii ,TRUE,account.data_account_type_view
+md_acc_21500,md_acc_21000,21500,Regular,Producţia în curs de execuţie,TRUE,account.data_account_type_view
+md_acc_21510,md_acc_21500,21510,Regular,Produse în curs de execuţie,TRUE,account.data_account_type_view
+md_acc_21520,md_acc_21500,21520,Regular,Servicii în curs de execuţie,TRUE,account.data_account_type_view
+md_acc_21530,md_acc_21500,21530,Regular,Lucrări în curs de execuţie,TRUE,account.data_account_type_view
+md_acc_21600,md_acc_21000,21600,View,Produse,TRUE,account.data_account_type_view
+md_acc_21610,md_acc_21600,21610,Regular,Produse finite,TRUE,account.data_account_type_view
+md_acc_21620,md_acc_21600,21620,Regular,Semifabricate din producţie proprie,TRUE,account.data_account_type_view
+md_acc_21630,md_acc_21600,21630,Regular,Produse secundare,TRUE,account.data_account_type_view
+md_acc_21640,md_acc_21600,21640,Regular,Produse transmise temporar terţilor,TRUE,account.data_account_type_view
+md_acc_21700,md_acc_21000,21700,View,Mărfuri,TRUE,account.data_account_type_view
+md_acc_21710,md_acc_21700,21710,Regular,Bunuri procurate în vederea revînzării,TRUE,account.data_account_type_expense
+md_acc_21720,md_acc_21700,21720,Regular,Produse transmise spre vînzare magazinelor proprii,TRUE,account.data_account_type_expense
+md_acc_21730,md_acc_21700,21730,Regular,Bunuri imobiliare deţinute pentru vînzare,TRUE,account.data_account_type_expense
+md_acc_21740,md_acc_21700,21740,Regular,Mărfuri transmise temporar terţilor,TRUE,account.data_account_type_view
+md_acc_22000,md_acc_20000,22000,View,CREANŢE COMERCIALE ŞI CALCULATE,TRUE,account.data_account_type_view
+md_acc_22100,md_acc_22000,22100,View,Creanţe comerciale ,TRUE,account.data_account_type_view
+md_acc_22110,md_acc_22100,22110,Regular,Creanţe comerciale din ţară,TRUE,account.data_account_type_view
+md_acc_22120,md_acc_22100,22120,Regular,Creanţe comerciale din străinătate ,TRUE,account.data_account_type_view
+md_acc_22130,md_acc_22100,22130,Regular,Alte creanţe comerciale,TRUE,account.data_account_type_view
+md_acc_22200,md_acc_22000,22200,View,Corecţii (provizioane) privind creanţele compromise,TRUE,account.data_account_type_view
+md_acc_22300,md_acc_22000,22300,Regular,Creanţe ale părţilor afiliate,TRUE,account.data_account_type_view
+md_acc_22310,md_acc_22300,22310,Regular,Creanţe ale părţilor afiliate din ţară,TRUE,account.data_account_type_view
+md_acc_22320,md_acc_22300,22320,Regular,Creanţe ale părţilor afiliate din străinătate ,TRUE,account.data_account_type_view
+md_acc_22330,md_acc_22300,22330,Regular,Alte creanţe ale părţilor afiliate,TRUE,account.data_account_type_view
+md_acc_22400,md_acc_22000,22400,Regular,Avansuri acordate curente,TRUE,account.data_account_type_view
+md_acc_22410,md_acc_22400,22410,Regular,Avansuri acordate în ţară,TRUE,account.data_account_type_view
+md_acc_22420,md_acc_22400,22420,Regular,Avansuri acordate în străinătate,TRUE,account.data_account_type_view
+md_acc_22500,md_acc_22000,22500,Regular,Creanţe ale bugetului,TRUE,account.data_account_type_view
+md_acc_22510,md_acc_22500,22510,Regular,Creanţe privind impozitul pe venit ,TRUE,account.data_account_type_view
+md_acc_22520,md_acc_22500,22520,Regular,Creanţe privind taxa pe valoarea adăugată ,TRUE,account.data_account_type_view
+md_acc_22530,md_acc_22500,22530,Regular,Creanţe privind accizele,TRUE,account.data_account_type_view
+md_acc_22540,md_acc_22500,22540,Regular,Creanţe privind alte impozite şi taxe,TRUE,account.data_account_type_view
+md_acc_22550,md_acc_22500,22550,Regular,Alte creanţe ale bugetului,TRUE,account.data_account_type_view
+md_acc_22600,md_acc_22000,22600,Regular,Creanţe ale personalului,TRUE,account.data_account_type_view
+md_acc_22610,md_acc_22600,22610,Regular,Creanţe ale titularilor de avans,TRUE,account.data_account_type_view
+md_acc_22620,md_acc_22600,22620,Regular,Creanţe privind recuperarea prejudiciului material,TRUE,account.data_account_type_view
+md_acc_22630,md_acc_22600,22630,Regular,Creanţe privind împrumuturile acordate personalului ,TRUE,account.data_account_type_view
+md_acc_22640,md_acc_22600,22640,Regular,Alte creanţe ale personalului,TRUE,account.data_account_type_view
+md_acc_23000,md_acc_20000,23000,View,ALTE CREANŢE CURENTE,TRUE,account.data_account_type_view
+md_acc_23100,md_acc_23000,23100,View,Creanţe privind veniturile din utilizarea de către terţi a activelor entităţii,TRUE,account.data_account_type_view
+md_acc_23110,md_acc_23100,23110,Regular,Creanţe privind leasingul,TRUE,account.data_account_type_view
+md_acc_23120,md_acc_23100,23120,Regular,Creanţe privind dobînzile şi redevenţele calculate,TRUE,account.data_account_type_view
+md_acc_23130,md_acc_23100,23130,Regular,Creanţe privind dividendele calculate,TRUE,account.data_account_type_view
+md_acc_23140,md_acc_23100,23140,Regular,Alte creanţe privind veniturile ,TRUE,account.data_account_type_view
+md_acc_23200,md_acc_23000,23200,Regular,Creanţe preliminate,TRUE,account.data_account_type_view
+md_acc_23210,md_acc_23200,23210,Regular,Creanţe preliminate privind decontările cu bugetul,TRUE,account.data_account_type_view
+md_acc_23220,md_acc_23200,23220,Regular,Creanţe preliminate privind leasingul,TRUE,account.data_account_type_view
+md_acc_23230,md_acc_23200,23230,Regular,Alte creanţe preliminate,TRUE,account.data_account_type_view
+md_acc_23300,md_acc_23000,23300,Regular,Creanţe curente privind asigurările ,TRUE,account.data_account_type_view
+md_acc_23400,md_acc_23000,23400,Regular,Alte creanţe curente,TRUE,account.data_account_type_view
+md_acc_23410,md_acc_23400,23410,Regular,Creanţe privind ieşirea activelor imobilizate,TRUE,account.data_account_type_view
+md_acc_23420,md_acc_23400,23420,Regular,Creanţe privind reclamaţiile înaintate şi recunoscute,TRUE,account.data_account_type_view
+md_acc_23430,md_acc_23400,23430,Regular,Creanţe privind alte operaţii,TRUE,account.data_account_type_view
+md_acc_24000,md_acc_20000,24000,View,NUMERAR,TRUE,account.data_account_type_view
+md_acc_24100,md_acc_24000,24100,View,Casa,TRUE,account.data_account_type_view
+md_acc_24110,md_acc_24100,24110,Liquidity,Casa în monedă naţională,TRUE,account.data_account_type_cash
+md_acc_24120,md_acc_24100,24120,Liquidity,Casa în valută străină,TRUE,account.data_account_type_cash
+md_acc_24130,md_acc_24100,24130,Liquidity,Numerar în casierie legat,TRUE,account.data_account_type_cash
+md_acc_24200,md_acc_24000,24200,View,Conturi curente în monedă naţională,TRUE,account.data_account_type_cash
+md_acc_24210,md_acc_24200,24210,Liquidity,Numerar la conturi nelegat,TRUE,account.data_account_type_cash
+md_acc_24220,md_acc_24200,24220,Liquidity,Numerar la conturi legat,TRUE,account.data_account_type_cash
+md_acc_24300,md_acc_24000,24300,View,Conturi curente în valută străină,TRUE,account.data_account_type_cash
+md_acc_24310,md_acc_24300,24310,Liquidity,Numerar la conturi în ţară,TRUE,account.data_account_type_cash
+md_acc_24320,md_acc_24300,24320,Liquidity,Numerar la conturi în străinătate,TRUE,account.data_account_type_cash
+md_acc_24330,md_acc_24300,24330,Liquidity,Numerar la conturi legat,TRUE,account.data_account_type_cash
+md_acc_24400,md_acc_24000,24400,View,Alte conturi bancare,TRUE,account.data_account_type_view
+md_acc_24410,md_acc_24400,24410,Regular,Acreditive,TRUE,account.data_account_type_view
+md_acc_24420,md_acc_24400,24420,Regular,Carduri bancare,TRUE,account.data_account_type_view
+md_acc_24430,md_acc_24400,24430,Regular,Numerar la alte conturi bancare,TRUE,account.data_account_type_view
+md_acc_24500,md_acc_24000,24500,Regular,Transferuri de numerar în expediţie,TRUE,account.data_account_type_view
+md_acc_24600,md_acc_24000,24600,Regular,Documente băneşti,TRUE,account.data_account_type_view
+md_acc_25000,md_acc_20000,25000,View,INVESTIŢII FINANCIARE CURENTE,TRUE,account.data_account_type_view
+md_acc_25100,md_acc_25000,25100,View,Investiţii financiare curente în părţi neafiliate,TRUE,account.data_account_type_view
+md_acc_25110,md_acc_25100,25110,Regular,Valori mobiliare ,TRUE,account.data_account_type_view
+md_acc_25120,md_acc_25100,25120,Regular,Cote de participaţie,TRUE,account.data_account_type_view
+md_acc_25130,md_acc_25100,25130,Regular,Depozite,TRUE,account.data_account_type_view
+md_acc_25140,md_acc_25100,25140,Regular,Împrumuturi acordate,TRUE,account.data_account_type_view
+md_acc_25150,md_acc_25100,25150,Regular,Alte investiţii financiare curente,TRUE,account.data_account_type_view
+md_acc_25200,md_acc_25000,25200,Regular,Investiţii financiare curente în părţi afiliate,TRUE,account.data_account_type_view
+md_acc_25210,md_acc_25200,25210,Regular,Valori mobiliare ,TRUE,account.data_account_type_view
+md_acc_25220,md_acc_25200,25220,Regular,Cote de participaţie,TRUE,account.data_account_type_view
+md_acc_25230,md_acc_25200,25230,Regular,Depozite,TRUE,account.data_account_type_view
+md_acc_25240,md_acc_25200,25240,Regular,Împrumuturi acordate,TRUE,account.data_account_type_view
+md_acc_25250,md_acc_25200,25250,Regular,Alte investiţii financiare curente,TRUE,account.data_account_type_view
+md_acc_26000,md_acc_20000,26000,View,ALTE ACTIVE CIRCULANTE,TRUE,account.data_account_type_view
+md_acc_26100,md_acc_26000,26100,Regular,Cheltuieli anticipate curente,TRUE,account.data_account_type_view
+md_acc_26200,md_acc_26000,26200,Regular,Alte active circulante,TRUE,account.data_account_type_view
+md_acc_30000,md_acc_0,30000,View,CAPITAL PROPRIU,TRUE,account.data_account_type_view
+md_acc_31000,md_acc_30000,31000,View,CAPITAL SOCIAL ŞI SUPLIMENTAR,TRUE,account.data_account_type_view
+md_acc_31100,md_acc_31000,31100,Regular,Capital social,TRUE,account.data_account_type_view
+md_acc_31200,md_acc_31000,31200,Regular,Capital suplimentar,TRUE,account.data_account_type_view
+md_acc_31210,md_acc_31200,31210,Regular,Prime de aporturi,TRUE,account.data_account_type_view
+md_acc_31220,md_acc_31200,31220,Regular,Diferenţe din anularea sau înstrăinarea părţilor sociale retrase,TRUE,account.data_account_type_view
+md_acc_31230,md_acc_31200,31230,Regular,Alte elemente de capital suplimentar,TRUE,account.data_account_type_view
+md_acc_31300,md_acc_31000,31300,Regular,Capital nevărsat,TRUE,account.data_account_type_view
+md_acc_31310,md_acc_31300,31310,Regular,Capital nevărsat privind părţile sociale neachitate de proprietari,TRUE,account.data_account_type_view
+md_acc_31320,md_acc_31300,31320,Regular,Capital nevărsat privind acoperirea pierderilor anilor precedenţi,TRUE,account.data_account_type_view
+md_acc_31400,md_acc_31000,31400,Regular,Capital neînregistrat,TRUE,account.data_account_type_view
+md_acc_31410,md_acc_31400,31410,Regular,Acţiuni neînregistrate emise la înfiinţarea societăţii ,TRUE,account.data_account_type_view
+md_acc_31420,md_acc_31400,31420,Regular,Părţi sociale pînă la înregistrarea de stat a majorării capitalului social ,TRUE,account.data_account_type_view
+md_acc_31500,md_acc_31000,31500,Regular,Capital retras,TRUE,account.data_account_type_view
+md_acc_32000,md_acc_30000,32000,View,REZERVE,TRUE,account.data_account_type_view
+md_acc_32100,md_acc_32000,32100,Regular,Capital de rezervă ,TRUE,account.data_account_type_view
+md_acc_32200,md_acc_32000,32200,Regular,Rezerve statutare,TRUE,account.data_account_type_view
+md_acc_32300,md_acc_32000,32300,Regular,Alte rezerve,TRUE,account.data_account_type_view
+md_acc_33000,md_acc_30000,33000,View,PROFIT NEREPARTIZAT (PIERDERE NEACOPERITĂ),TRUE,account.data_account_type_view
+md_acc_33100,md_acc_33000,33100,Regular,Corecţii ale rezultatelor anilor precedenţi ,TRUE,account.data_account_type_view
+md_acc_33200,md_acc_33000,33200,Regular,Profit nerepartizat (pierdere neacoperită) al anilor precedenţi ,TRUE,account.data_account_type_view
+md_acc_33300,md_acc_33000,33300,Regular,Profit net (pierdere netă) al perioadei de gestiune,TRUE,account.data_account_type_view
+md_acc_33400,md_acc_33000,33400,Regular,Profit utilizat al perioadei de gestiune,TRUE,account.data_account_type_view
+md_acc_33500,md_acc_33000,33500,Regular,Rezultat din tranziţia la noile reglementări contabile ,TRUE,account.data_account_type_view
+md_acc_34000,md_acc_30000,34000,View,ALTE ELEMENTE DE CAPITAL PROPRIU,TRUE,account.data_account_type_view
+md_acc_34100,md_acc_34000,34100,Regular,Fonduri,TRUE,account.data_account_type_view
+md_acc_34110,md_acc_34100,34110,Regular,Fondul de active imobilizate,TRUE,account.data_account_type_view
+md_acc_34120,md_acc_34100,34120,Regular,Fondul de autofinanţare,TRUE,account.data_account_type_view
+md_acc_34130,md_acc_34100,34130,Regular,Alte fonduri,TRUE,account.data_account_type_view
+md_acc_34200,md_acc_34000,34200,Regular,Subvenţii entităţilor cu proprietate publică,TRUE,account.data_account_type_view
+md_acc_34210,md_acc_34200,34210,Regular,Subvenţii aferente activelor imobilizate,TRUE,account.data_account_type_view
+md_acc_34220,md_acc_34200,34220,Regular,Alte subvenţii ,TRUE,account.data_account_type_view
+md_acc_34300,md_acc_34000,34300,Regular,Alte elemente de capital propriu,TRUE,account.data_account_type_view
+md_acc_35000,md_acc_30000,35000,View,REZULTAT FINANCIAR TOTAL,TRUE,account.data_account_type_view
+md_acc_35100,md_acc_35000,35100,Regular,Rezultat financiar total,TRUE,account.data_account_type_view
+md_acc_40000,md_acc_0,40000,View,DATORII PE TERMEN LUNG,TRUE,account.data_account_type_view
+md_acc_41000,md_acc_40000,41000,View,DATORII FINANCIARE PE TERMEN LUNG,TRUE,account.data_account_type_view
+md_acc_41100,md_acc_41000,41100,Regular,Credite bancare pe termen lung,TRUE,account.data_account_type_view
+md_acc_41110,md_acc_41100,41110,Regular,Credite bancare în monedă naţională,TRUE,account.data_account_type_view
+md_acc_41120,md_acc_41100,41120,Regular,Credite bancare în valută străină,TRUE,account.data_account_type_view
+md_acc_41130,md_acc_41100,41130,Regular,Datorii convertibile privind creditele bancare,TRUE,account.data_account_type_view
+md_acc_41140,md_acc_41100,41140,Regular,Alte credite bancare pe termen lung,TRUE,account.data_account_type_view
+md_acc_41200,md_acc_41000,41200,Regular,Împrumuturi pe termen lung,TRUE,account.data_account_type_view
+md_acc_41210,md_acc_41200,41210,Regular,Împrumuturi din părţi neafiliate,TRUE,account.data_account_type_view
+md_acc_41220,md_acc_41200,41220,Regular,Împrumuturi din părţi afiliate,TRUE,account.data_account_type_view
+md_acc_41230,md_acc_41200,41230,Regular,Împrumuturi din emisiunea de obligaţiuni,TRUE,account.data_account_type_view
+md_acc_41240,md_acc_41200,41240,Regular,Împrumuturi de la personalul entităţii,TRUE,account.data_account_type_view
+md_acc_41250,md_acc_41200,41250,Regular,Datorii convertibile privind împrumuturile ,TRUE,account.data_account_type_view
+md_acc_41260,md_acc_41200,41260,Regular,Alte împrumuturi pe termen lung,TRUE,account.data_account_type_view
+md_acc_41300,md_acc_41000,41300,Regular,Datorii pe termen lung privind leasingul financiar,TRUE,account.data_account_type_view
+md_acc_42000,md_acc_40000,42000,View,ALTE DATORII PE TERMEN LUNG,TRUE,account.data_account_type_view
+md_acc_42100,md_acc_42000,42100,Regular,Datorii comerciale pe termen lung,TRUE,account.data_account_type_view
+md_acc_42110,md_acc_42100,42110,Regular,Datorii comerciale în ţară,TRUE,account.data_account_type_view
+md_acc_42120,md_acc_42100,42120,Regular,Datorii comerciale în străinătate,TRUE,account.data_account_type_view
+md_acc_42130,md_acc_42100,42130,Regular,Alte datorii comerciale ,TRUE,account.data_account_type_view
+md_acc_42200,md_acc_42000,42200,Regular,Datorii faţă de părţile afiliate pe termen lung,TRUE,account.data_account_type_view
+md_acc_42210,md_acc_42200,42210,Regular,Datorii faţă de părţile afiliate din ţară,TRUE,account.data_account_type_view
+md_acc_42220,md_acc_42200,42220,Regular,Datorii faţă de părţile afiliate din străinătate,TRUE,account.data_account_type_view
+md_acc_42230,md_acc_42200,42230,Regular,Alte datorii faţă de părţile afiliate,TRUE,account.data_account_type_view
+md_acc_42300,md_acc_42000,42300,Regular,Avansuri primite pe termen lung,TRUE,account.data_account_type_view
+md_acc_42310,md_acc_42300,42310,Regular,Avansuri primite din ţară,TRUE,account.data_account_type_view
+md_acc_42320,md_acc_42300,42320,Regular,Avansuri primite din străinătate,TRUE,account.data_account_type_view
+md_acc_42400,md_acc_42000,42400,Regular,Venituri anticipate pe termen lung,TRUE,account.data_account_type_view
+md_acc_42410,md_acc_42400,42410,Regular,Subvenţii,TRUE,account.data_account_type_view
+md_acc_42420,md_acc_42400,42420,Regular,Alte venituri anticipate pe termen lung,TRUE,account.data_account_type_view
+md_acc_42500,md_acc_42000,42500,Regular,Finanţări şi încasări cu destinaţie specială pe termen lung,TRUE,account.data_account_type_view
+md_acc_42600,md_acc_42000,42600,Regular,Provizioane pe termen lung,TRUE,account.data_account_type_view
+md_acc_42700,md_acc_42000,42700,Regular,Datorii pe termen lung privind bunurile primite în gestiune economică ,TRUE,account.data_account_type_view
+md_acc_42800,md_acc_42000,42800,Regular,Alte datorii pe termen lung ,TRUE,account.data_account_type_view
+md_acc_50000,md_acc_0,50000,View,DATORII CURENTE,TRUE,account.data_account_type_view
+md_acc_51000,md_acc_50000,51000,View,DATORII FINANCIARE CURENTE,TRUE,account.data_account_type_view
+md_acc_51100,md_acc_51000,51100,Regular,Credite bancare pe termen scurt,TRUE,account.data_account_type_view
+md_acc_51110,md_acc_51100,51110,Regular,Credite bancare în monedă naţională,TRUE,account.data_account_type_view
+md_acc_51120,md_acc_51100,51120,Regular,Credite bancare în valută străină,TRUE,account.data_account_type_view
+md_acc_51130,md_acc_51100,51130,Regular,Credite bancare în monedă naţională restante,TRUE,account.data_account_type_view
+md_acc_51140,md_acc_51100,51140,Regular,Credite bancare în valută străină restante,TRUE,account.data_account_type_view
+md_acc_51150,md_acc_51100,51150,Regular,Alte credite bancare pe termen scurt,TRUE,account.data_account_type_view
+md_acc_51160,md_acc_51100,51160,Regular,Dobînzi aferente creditelor bancare ,TRUE,account.data_account_type_view
+md_acc_51200,md_acc_51000,51200,Regular,Împrumuturi pe termen scurt,TRUE,account.data_account_type_view
+md_acc_51210,md_acc_51200,51210,Regular,Împrumuturi de la părţi neafiliate,TRUE,account.data_account_type_view
+md_acc_51220,md_acc_51200,51220,Regular,Împrumuturi de la părţi afiliate,TRUE,account.data_account_type_view
+md_acc_51230,md_acc_51200,51230,Regular,Împrumuturi din emisiunea de obligaţiuni,TRUE,account.data_account_type_view
+md_acc_51240,md_acc_51200,51240,Regular,Împrumuturi de la personalul entităţii,TRUE,account.data_account_type_view
+md_acc_51250,md_acc_51200,51250,Regular,Alte împrumuturi pe termen scurt ,TRUE,account.data_account_type_view
+md_acc_51260,md_acc_51200,51260,Regular,Dobînzi aferente împrumuturilor,TRUE,account.data_account_type_view
+md_acc_52000,md_acc_50000,52000,View,DATORII COMERCIALE CURENTE,TRUE,account.data_account_type_view
+md_acc_52100,md_acc_52000,52100,View,Datorii comerciale curente ,TRUE,account.data_account_type_view
+md_acc_52110,md_acc_52100,52110,Regular,Datorii comerciale în ţară,TRUE,account.data_account_type_view
+md_acc_52120,md_acc_52100,52120,Regular,Datorii comerciale în străinătate,TRUE,account.data_account_type_view
+md_acc_52130,md_acc_52100,52130,Regular,Alte datorii comerciale ,TRUE,account.data_account_type_view
+md_acc_52200,md_acc_52000,52200,Regular,Datorii curente faţă de părţile afiliate,TRUE,account.data_account_type_view
+md_acc_52210,md_acc_52200,52210,Regular,Datorii faţă de părţile afiliate din ţară,TRUE,account.data_account_type_view
+md_acc_52220,md_acc_52200,52220,Regular,Datorii faţă de părţile afiliate din străinătate,TRUE,account.data_account_type_view
+md_acc_52230,md_acc_52200,52230,Regular,Alte datorii faţă de părţile afiliate,TRUE,account.data_account_type_view
+md_acc_52300,md_acc_52000,52300,Regular,Avansuri primite curente,TRUE,account.data_account_type_view
+md_acc_52310,md_acc_52300,52310,Regular,Avansuri primite din ţară,TRUE,account.data_account_type_view
+md_acc_52320,md_acc_52300,52320,Regular,Avansuri primite din străinătate,TRUE,account.data_account_type_view
+md_acc_53000,md_acc_50000,53000,View,DATORII CALCULATE CURENTE ,TRUE,account.data_account_type_view
+md_acc_53100,md_acc_53000,53100,View,Datorii faţă de personal privind retribuirea muncii,TRUE,account.data_account_type_view
+md_acc_53110,md_acc_53100,53110,Regular,Datorii salariale,TRUE,account.data_account_type_view
+md_acc_53120,md_acc_53100,53120,Regular,Datorii faţă de deponenţi,TRUE,account.data_account_type_view
+md_acc_53200,md_acc_53000,53200,Regular,Datorii faţă de personal privind alte operaţii,TRUE,account.data_account_type_view
+md_acc_53210,md_acc_53200,53210,Regular,Datorii faţă de titularii de avans,TRUE,account.data_account_type_view
+md_acc_53220,md_acc_53200,53220,Regular,Datorii faţă de personal privind alte operaţii,TRUE,account.data_account_type_view
+md_acc_53300,md_acc_53000,53300,Regular,Datorii privind asigurările sociale şi medicale,TRUE,account.data_account_type_view
+md_acc_53310,md_acc_53300,53310,Regular,Datorii faţă de bugetul asigurărilor sociale de stat,TRUE,account.data_account_type_view
+md_acc_53320,md_acc_53300,53320,Regular,Datorii faţă de fondurile asigurării obligatorii de asistenţă medicală,TRUE,account.data_account_type_view
+md_acc_53330,md_acc_53300,53330,Regular,Alte datorii privind asigurările sociale şi medicale,TRUE,account.data_account_type_view
+md_acc_53400,md_acc_53000,53400,Regular,Datorii faţă de buget ,TRUE,account.data_account_type_view
+md_acc_53410,md_acc_53400,53410,Regular,Datorii privind impozitul pe venit din activitatea de întreprinzător şi profesională,TRUE,account.data_account_type_view
+md_acc_53420,md_acc_53400,53420,Regular,Datorii privind impozitul pe venit din salariu,TRUE,account.data_account_type_view
+md_acc_53430,md_acc_53400,53430,Regular,Datorii privind impozitul pe venit reţinut la sursa de plată,TRUE,account.data_account_type_view
+md_acc_53440,md_acc_53400,53440,Regular,Datorii privind taxa pe valoarea adăugată,TRUE,account.data_account_type_view
+md_acc_53450,md_acc_53400,53450,Regular,Datorii privind accizele,TRUE,account.data_account_type_view
+md_acc_53460,md_acc_53400,53460,Regular,Datorii privind alte impozite şi taxe ,TRUE,account.data_account_type_view
+md_acc_53470,md_acc_53400,53470,Regular,Datorii privind sancţiunile,TRUE,account.data_account_type_view
+md_acc_53480,md_acc_53400,53480,Regular,Alte datorii faţă de buget,TRUE,account.data_account_type_view
+md_acc_53500,md_acc_53000,53500,Regular,Venituri anticipate curente ,TRUE,account.data_account_type_view
+md_acc_53510,md_acc_53500,53510,Regular,Subvenţii,TRUE,account.data_account_type_view
+md_acc_53520,md_acc_53500,53520,Regular,Alte venituri anticipate curente,TRUE,account.data_account_type_view
+md_acc_53600,md_acc_53000,53600,Regular,Datorii faţă de proprietari,TRUE,account.data_account_type_view
+md_acc_53610,md_acc_53600,53610,Regular,Datorii privind dividendele calculate,TRUE,account.data_account_type_view
+md_acc_53620,md_acc_53600,53620,Regular,Datorii privind alte operaţii,TRUE,account.data_account_type_view
+md_acc_53700,md_acc_53000,53700,Regular,Finanţări şi încasări cu destinaţie specială curente,TRUE,account.data_account_type_view
+md_acc_53800,md_acc_53000,53800,Regular,Provizioane curente,TRUE,account.data_account_type_view
+md_acc_54000,md_acc_50000,54000,View,ALTE DATORII CURENTE,TRUE,account.data_account_type_view
+md_acc_54100,md_acc_54000,54100,Regular,Datorii preliminate,TRUE,account.data_account_type_view
+md_acc_54110,md_acc_54100,54110,Regular,Datorii preliminate privind decontările cu bugetul,TRUE,account.data_account_type_view
+md_acc_54120,md_acc_54100,54120,Regular,Datorii preliminate privind primele de asigurare obligatorie de asistenţă medicală,TRUE,account.data_account_type_view
+md_acc_54130,md_acc_54100,54130,Regular,Datorii preliminate privind leasingul financiar,TRUE,account.data_account_type_view
+md_acc_54140,md_acc_54100,54140,Regular,Alte datorii preliminate,TRUE,account.data_account_type_view
+md_acc_54200,md_acc_54000,54200,Regular,Datorii privind asigurarea bunurilor şi a persoanelor,TRUE,account.data_account_type_view
+md_acc_54300,md_acc_54000,54300,Regular,Datorii curente privind bunurile primite în gestiune economică,TRUE,account.data_account_type_view
+md_acc_54400,md_acc_54000,54400,Regular,Alte datorii curente,TRUE,account.data_account_type_view
+md_acc_54410,md_acc_54400,54410,Regular,Datorii privind sancţiunile comerciale,TRUE,account.data_account_type_view
+md_acc_54420,md_acc_54400,54420,Regular,Alte datorii calculate curente,TRUE,account.data_account_type_view
+md_acc_60000,md_acc_0,60000,View,VENITURI,TRUE,account.data_account_type_view
+md_acc_61000,md_acc_60000,61000,View,VENITURI DIN ACTIVITATEA OPERAŢIONALĂ,TRUE,account.data_account_type_view
+md_acc_61100,md_acc_61000,61100,Regular,Venituri din vînzări,TRUE,account.data_account_type_income
+md_acc_61110,md_acc_61100,61110,Regular,Venituri din vînzarea produselor ,TRUE,account.data_account_type_income
+md_acc_61120,md_acc_61100,61120,Regular,Venituri din vînzarea mărfurilor,TRUE,account.data_account_type_income
+md_acc_61130,md_acc_61100,61130,Regular,Venituri din prestarea serviciilor ,TRUE,account.data_account_type_income
+md_acc_61140,md_acc_61100,61140,Regular,Venituri din executarea lucrărilor ,TRUE,account.data_account_type_income
+md_acc_61150,md_acc_61100,61150,Regular,Venituri din contracte de construcţie,TRUE,account.data_account_type_income
+md_acc_61160,md_acc_61100,61160,Regular,Venituri din contracte de leasing operaţional şi financiar (arendă locaţiune),TRUE,account.data_account_type_income
+md_acc_61170,md_acc_61100,61170,Regular,Venituri din contracte de microfinanţare,TRUE,account.data_account_type_income
+md_acc_61180,md_acc_61100,61180,Regular,Alte venituri din vînzări,TRUE,account.data_account_type_income
+md_acc_61200,md_acc_61000,61200,Regular,Alte venituri din activitatea operaţională,TRUE,account.data_account_type_income
+md_acc_61210,md_acc_61200,61210,Regular,Venituri din ieşirea altor active circulante,TRUE,account.data_account_type_income
+md_acc_61220,md_acc_61200,61220,Regular,Venituri din sancţiuni,TRUE,account.data_account_type_income
+md_acc_61230,md_acc_61200,61230,Regular,Venituri din recuperarea prejudiciului material,TRUE,account.data_account_type_income
+md_acc_61240,md_acc_61200,61240,Regular,Venituri din plusurile de active imobilizate şi circulante constatate la inventariere,TRUE,account.data_account_type_income
+md_acc_61250,md_acc_61200,61250,Regular,Venituri din decontarea datoriilor cu termen de prescripţie expirat,TRUE,account.data_account_type_income
+md_acc_61260,md_acc_61200,61260,Regular,Alte venituri operaţionale,TRUE,account.data_account_type_income
+md_acc_62000,md_acc_60000,62000,View,VENITURI DIN ALTE ACTIVITĂŢI,TRUE,account.data_account_type_view
+md_acc_62100,md_acc_62000,62100,Regular,Venituri din operaţiuni cu active imobilizate,TRUE,account.data_account_type_view
+md_acc_62110,md_acc_62100,62110,Regular,Venituri din ieşirea imobilizărilor necorporale,TRUE,account.data_account_type_view
+md_acc_62120,md_acc_62100,62120,Regular,Venituri din ieşirea imobilizărilor corporale,TRUE,account.data_account_type_view
+md_acc_62130,md_acc_62100,62130,Regular,Venituri din ieşirea investiţiilor financiare pe termen lung,TRUE,account.data_account_type_view
+md_acc_62140,md_acc_62100,62140,Regular,Venituri din ieşirea investiţiilor imobiliare,TRUE,account.data_account_type_view
+md_acc_62150,md_acc_62100,62150,Regular,Venituri din ieşirea altor active imobilizate,TRUE,account.data_account_type_view
+md_acc_62160,md_acc_62100,62160,Regular,Venituri din reluarea pierderilor din deprecierea activelor imobilizate,TRUE,account.data_account_type_view
+md_acc_62170,md_acc_62100,62170,Regular,Alte venituri din operaţiuni cu active imobilizate,TRUE,account.data_account_type_view
+md_acc_62200,md_acc_62000,62200,Regular,Venituri financiare,TRUE,account.data_account_type_view
+md_acc_62210,md_acc_62200,62210,Regular,Venituri din diferenţe de curs valutar,TRUE,account.data_account_type_view
+md_acc_62220,md_acc_62200,62220,Regular,Venituri din diferenţe de sumă,TRUE,account.data_account_type_view
+md_acc_62230,md_acc_62200,62230,Regular,Venituri din redevenţe,TRUE,account.data_account_type_view
+md_acc_62240,md_acc_62200,62240,Regular,Venituri din active imobilizate şi circulante intrate cu titlu gratuit,TRUE,account.data_account_type_view
+md_acc_62250,md_acc_62200,62250,Regular,Venituri din dividende şi participaţii în alte entităţi,TRUE,account.data_account_type_view
+md_acc_62260,md_acc_62200,62260,Regular,Venituri din dobînzi aferente altor activităţii,TRUE,account.data_account_type_view
+md_acc_62270,md_acc_62200,62270,Regular,Alte venituri financiare,TRUE,account.data_account_type_view
+md_acc_62300,md_acc_62000,62300,Regular,Venituri excepţionale,TRUE,account.data_account_type_view
+md_acc_62310,md_acc_62300,62310,Regular,Venituri din compensarea pierderilor din calamităţi ,TRUE,account.data_account_type_view
+md_acc_62320,md_acc_62300,62320,Regular,Venituri din compensarea pierderilor din alte evenimente excepţionale,TRUE,account.data_account_type_view
+md_acc_62330,md_acc_62300,62330,Regular,Alte venituri excepţionale,TRUE,account.data_account_type_view
+md_acc_70000,md_acc_0,70000,View,CHELTUIELI,TRUE,account.data_account_type_view
+md_acc_71000,md_acc_70000,71000,View,CHELTUIELI ALE ACTIVITĂŢII OPERAŢIONALE,TRUE,account.data_account_type_view
+md_acc_71100,md_acc_71000,71100,Regular,Costul vînzărilor,TRUE,account.data_account_type_view
+md_acc_71110,md_acc_71100,71110,Regular,Valoarea contabilă a produselor vîndute,TRUE,account.data_account_type_view
+md_acc_71120,md_acc_71100,71120,Regular,Valoarea contabilă a mărfurilor vîndute,TRUE,account.data_account_type_view
+md_acc_71130,md_acc_71100,71130,Regular,Costul serviciilor prestate ,TRUE,account.data_account_type_view
+md_acc_71140,md_acc_71100,71140,Regular,Costul lucrărilor executate terţilor,TRUE,account.data_account_type_view
+md_acc_71150,md_acc_71100,71150,Regular,Costuri aferente contractelor de construcţie,TRUE,account.data_account_type_view
+md_acc_71160,md_acc_71100,71160,Regular,Costuri aferente contractelor de leasing operaţional şi financiar (arendă locaţiune),TRUE,account.data_account_type_view
+md_acc_71170,md_acc_71100,71170,Regular,Costuri aferente contractelor de microfinanţare,TRUE,account.data_account_type_view
+md_acc_71180,md_acc_71100,71180,Regular,Alte costuri aferente veniturilor din vînzări,TRUE,account.data_account_type_view
+md_acc_71200,md_acc_71000,71200,Regular,Cheltuieli de distribuire,TRUE,account.data_account_type_view
+md_acc_71210,md_acc_71200,71210,Regular,Cheltuieli cu personalul comercial,TRUE,account.data_account_type_view
+md_acc_71220,md_acc_71200,71220,Regular,Cheltuieli privind amortizarea întreţinerea şi reparaţia activelor imobilizate cu destinaţie comercială,TRUE,account.data_account_type_view
+md_acc_71230,md_acc_71200,71230,Regular,Cheltuieli cu ambalajele şi alte materiale utilizate la comercializarea produselor şi mărfurilor,TRUE,account.data_account_type_view
+md_acc_71240,md_acc_71200,71240,Regular,Cheltuieli de transportare a produselor şi mărfurilor,TRUE,account.data_account_type_view
+md_acc_71250,md_acc_71200,71250,Regular,Cheltuieli de publicitate şi marketing,TRUE,account.data_account_type_view
+md_acc_71260,md_acc_71200,71260,Regular,Cheltuieli privind reparaţiile şi deservirea produselor şi mărfurilor în perioada de garanţie,TRUE,account.data_account_type_view
+md_acc_71270,md_acc_71200,71270,Regular,Cheltuieli privind creanţele comerciale compromise,TRUE,account.data_account_type_view
+md_acc_71280,md_acc_71200,71280,Regular,Cheltuieli privind returnările şi reducerile,TRUE,account.data_account_type_view
+md_acc_71290,md_acc_71200,71290,Regular,Alte cheltuieli de distribuire,TRUE,account.data_account_type_view
+md_acc_71300,md_acc_71000,71300,Regular,Cheltuieli administrative,TRUE,account.data_account_type_view
+md_acc_71310,md_acc_71300,71310,Regular,Cheltuieli cu personalul administrativ,TRUE,account.data_account_type_view
+md_acc_71320,md_acc_71300,71320,Regular,Cheltuieli privind amortizarea întreţinerea şi reparaţia activelor imobilizate cu destinaţie administrativă,TRUE,account.data_account_type_view
+md_acc_71330,md_acc_71300,71330,Regular,Cheltuieli cu impozitele şi taxele cu excepţia impozitului pe venit,TRUE,account.data_account_type_view
+md_acc_71340,md_acc_71300,71340,Regular,Cheltuieli în scopuri de filantropie şi sponsorizare,TRUE,account.data_account_type_view
+md_acc_71350,md_acc_71300,71350,Regular,Cheltuieli privind serviciile cu destinaţie administrativă,TRUE,account.data_account_type_view
+md_acc_71360,md_acc_71300,71360,Regular,Cheltuieli de protocol (reprezentanţă),TRUE,account.data_account_type_view
+md_acc_71370,md_acc_71300,71370,Regular,Cheltuieli privind delegarea personalului administrativ,TRUE,account.data_account_type_view
+md_acc_71380,md_acc_71300,71380,Regular,Alte cheltuieli administrative,TRUE,account.data_account_type_view
+md_acc_71400,md_acc_71000,71400,Regular,Alte cheltuieli din activitatea operaţională,TRUE,account.data_account_type_view
+md_acc_71410,md_acc_71400,71410,Regular,Valoarea contabilă şi cheltuielile aferente altor active circulante ieşite ,TRUE,account.data_account_type_view
+md_acc_71420,md_acc_71400,71420,Regular,Cheltuieli privind sancţiunile,TRUE,account.data_account_type_view
+md_acc_71430,md_acc_71400,71430,Regular,Cheltuieli privind dobînzile,TRUE,account.data_account_type_view
+md_acc_71440,md_acc_71400,71440,Regular,Cheltuieli privind lipsurile şi pierderile din deteriorarea activelor imobilizate şi circulante,TRUE,account.data_account_type_view
+md_acc_71450,md_acc_71400,71450,Regular,Cheltuieli privind creanţele compromise decontate cu excepţia celor comerciale,TRUE,account.data_account_type_view
+md_acc_71460,md_acc_71400,71460,Regular,Cheltuieli aferente evaluării stocurilor la valoarea realizabilă netă,TRUE,account.data_account_type_view
+md_acc_71470,md_acc_71400,71470,Regular,Alte cheltuieli operaţionale,TRUE,account.data_account_type_view
+md_acc_72000,md_acc_70000,72000,View,CHELTUIELI ALE ALTOR ACTIVITĂŢI,TRUE,account.data_account_type_view
+md_acc_72100,md_acc_72000,72100,Regular,Cheltuieli cu active imobilizate,TRUE,account.data_account_type_view
+md_acc_72110,md_acc_72100,72110,Regular,Valoarea contabilă şi cheltuielile aferente imobilizărilor necorporale ieşite,TRUE,account.data_account_type_view
+md_acc_72120,md_acc_72100,72120,Regular,Valoarea contabilă şi cheltuielile aferente imobilizărilor corporale ieşite,TRUE,account.data_account_type_view
+md_acc_72130,md_acc_72100,72130,Regular,Valoarea contabilă şi cheltuielile aferente investiţiilor financiare pe termen lung ieşite,TRUE,account.data_account_type_view
+md_acc_72140,md_acc_72100,72140,Regular,Valoarea contabilă şi cheltuielile aferente investiţiilor imobiliare ieşite,TRUE,account.data_account_type_view
+md_acc_72150,md_acc_72100,72150,Regular,Valoarea contabilă şi cheltuielile aferente altor active imobilizate ieşite,TRUE,account.data_account_type_view
+md_acc_72160,md_acc_72100,72160,Regular,Cheltuieli privind provizioanele aferente activelor imobilizate,TRUE,account.data_account_type_view
+md_acc_72170,md_acc_72100,72170,Regular,Pierderi din deprecierea activelor imobilizate,TRUE,account.data_account_type_view
+md_acc_72180,md_acc_72100,72180,Regular,Alte cheltuieli cu active imobilizate,TRUE,account.data_account_type_view
+md_acc_72200,md_acc_72000,72200,Regular,Cheltuieli financiare,TRUE,account.data_account_type_view
+md_acc_72210,md_acc_72200,72210,Regular,Cheltuieli din diferenţe de curs valutar,TRUE,account.data_account_type_view
+md_acc_72220,md_acc_72200,72220,Regular,Cheltuieli din diferenţe de sumă,TRUE,account.data_account_type_view
+md_acc_72230,md_acc_72200,72230,Regular,Cheltuieli privind redevenţele,TRUE,account.data_account_type_view
+md_acc_72240,md_acc_72200,72240,Regular,Valoarea contabilă şi cheltuielile aferente activelor imobilizate şi circulante transmise cu titlu gratuit ,TRUE,account.data_account_type_view
+md_acc_72250,md_acc_72200,72250,Regular,Cheltuieli aferente emisiunii şi operaţiunilor cu acţiuni proprii,TRUE,account.data_account_type_view
+md_acc_72260,md_acc_72200,72260,Regular,Alte cheltuieli financiare,TRUE,account.data_account_type_view
+md_acc_72300,md_acc_72000,72300,Regular,Cheltuieli excepţionale,TRUE,account.data_account_type_view
+md_acc_72310,md_acc_72300,72310,Regular,Cheltuieli privind calamităţile,TRUE,account.data_account_type_view
+md_acc_72320,md_acc_72300,72320,Regular,Cheltuieli privind alte evenimente excepţionale,TRUE,account.data_account_type_view
+md_acc_72330,md_acc_72300,72330,Regular,Alte cheltuieli excepţionale,TRUE,account.data_account_type_view
+md_acc_73000,md_acc_70000,73000,View,CHELTUIELI PRIVIND IMPOZITUL PE VENIT,TRUE,account.data_account_type_view
+md_acc_73100,md_acc_73000,73100,View,Cheltuieli privind impozitul pe venit,TRUE,account.data_account_type_view
+md_acc_73110,md_acc_73100,73110,Regular,Cheltuieli privind impozitul pe venit,TRUE,account.data_account_type_view
+md_acc_73120,md_acc_73100,73120,Regular,Cheltuieli privind impozitul pe venitul din activitatea operaţională,TRUE,account.data_account_type_view
+md_acc_73130,md_acc_73100,73130,Regular,Alte cheltuieli privind impozitul pe venit,TRUE,account.data_account_type_view
+md_acc_80000,md_acc_0,80000,View,CONTURI DE GESTIUNE,TRUE,account.data_account_type_view
+md_acc_81000,md_acc_80000,81000,View,CONTURI DE CALCULAŢIE,TRUE,account.data_account_type_view
+md_acc_81100,md_acc_81000,81100,Regular,Activităţi de bază,TRUE,account.data_account_type_view
+md_acc_81200,md_acc_81000,81200,Regular,Activităţi auxiliare,TRUE,account.data_account_type_view
+md_acc_82000,md_acc_80000,82000,View,CONTURI DE REPARTIZARE,TRUE,account.data_account_type_view
+md_acc_82100,md_acc_82000,82100,Regular,Costuri indirecte de producţie,TRUE,account.data_account_type_view
+md_acc_82200,md_acc_82000,82200,Regular,Costuri indirecte aferente contractelor de construcţie ,TRUE,account.data_account_type_view
+md_acc_82300,md_acc_82000,82300,Regular,Costuri de regie aferente contractelor de construcţie ,TRUE,account.data_account_type_view
+md_acc_82400,md_acc_82000,82400,Regular,Alte costuri repartizabile,TRUE,account.data_account_type_view
+md_acc_83000,md_acc_80000,83000,View,ALTE CONTURI DE GESTIUNE,TRUE,account.data_account_type_view
+md_acc_83100,md_acc_83000,83100,Regular,Adaos comercial,TRUE,account.data_account_type_view
+md_acc_83200,md_acc_83000,83200,Regular,Încasări din vînzarea bunurilor în numerar,TRUE,account.data_account_type_view
+md_acc_83300,md_acc_83000,83300,Regular,Returnarea şi reducerea preţurilor la bunurile vîndute,TRUE,account.data_account_type_view
+md_acc_83400,md_acc_83000,83400,Regular,Costuri aferente bunurilor transmise spre prelucrare terţilor,TRUE,account.data_account_type_view
+md_acc_83500,md_acc_83000,83500,Regular,Producţii şi unităţi de deservire,TRUE,account.data_account_type_view
+md_acc_83600,md_acc_83000,83600,Regular,Costuri refacturate,TRUE,account.data_account_type_view
+md_acc_90000,md_acc_0,90000,View,CONTURI EXTRABILANŢIERE,TRUE,account.data_account_type_view
+md_acc_91100,md_acc_90000,91100,Regular,Imobilizări corporale primite în leasing (arendă locaţiune) operaţional,TRUE,account.data_account_type_view
+md_acc_91200,md_acc_90000,91200,Regular,Bunuri primite pentru montare,TRUE,account.data_account_type_view
+md_acc_91300,md_acc_90000,91300,Regular,Imobilizări corporale transmise în leasing financiar,TRUE,account.data_account_type_view
+md_acc_91400,md_acc_90000,91400,Regular,Bunuri primite în custodie,TRUE,account.data_account_type_view
+md_acc_91500,md_acc_90000,91500,Regular,Bunuri primite spre prelucrare sau reparare,TRUE,account.data_account_type_view
+md_acc_91600,md_acc_90000,91600,Regular,Bunuri primite în baza contractelor de comision,TRUE,account.data_account_type_view
+md_acc_91700,md_acc_90000,91700,Regular,Bunuri obţinute din materialele prelucrate ale terţilor,TRUE,account.data_account_type_view
+md_acc_91800,md_acc_90000,91800,Regular,Formulare cu regim special,TRUE,account.data_account_type_view
+md_acc_91900,md_acc_90000,91900,Regular,Creanţe compromise decontate,TRUE,account.data_account_type_view
+md_acc_92000,md_acc_90000,92000,Regular,Creanţe contingente,TRUE,account.data_account_type_view
+md_acc_92100,md_acc_90000,92100,Regular,Datorii contingente,TRUE,account.data_account_type_view
+md_acc_92200,md_acc_90000,92200,Regular,Garanţii acordate,TRUE,account.data_account_type_view
+md_acc_92300,md_acc_90000,92300,Regular,Garanţii primite,TRUE,account.data_account_type_view
+md_acc_92400,md_acc_90000,92400,Regular,Pierderi fiscale,TRUE,account.data_account_type_view
+md_acc_92500,md_acc_90000,92500,Regular,Facilităţi fiscale,TRUE,account.data_account_type_view
