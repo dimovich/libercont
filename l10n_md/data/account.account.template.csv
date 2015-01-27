@@ -456,7 +456,7 @@ md_acc_82200,md_acc_82000,82200,Regular,Costuri indirecte aferente contractelor 
 md_acc_82300,md_acc_82000,82300,Regular,Costuri de regie aferente contractelor de construcţie ,TRUE,account.data_account_type_expense
 md_acc_82400,md_acc_82000,82400,Regular,Alte costuri repartizabile,TRUE,account.data_account_type_expense
 md_acc_83000,md_acc_80000,83000,View,ALTE CONTURI DE GESTIUNE,TRUE,account.data_account_type_view
-md_acc_83100,md_acc_83000,83100,Regular,Adaos comercial,TRUE,account.data_account_type_tax
+md_acc_83100,md_acc_83000,83100,Regular,Adaos comercial,TRUE,account.data_account_type_view
 md_acc_83200,md_acc_83000,83200,Regular,Încasări din vînzarea bunurilor în numerar,TRUE,account.data_account_type_cash
 md_acc_83300,md_acc_83000,83300,Regular,Returnarea şi reducerea preţurilor la bunurile vîndute,TRUE,account.data_account_type_expense
 md_acc_83400,md_acc_83000,83400,Regular,Costuri aferente bunurilor transmise spre prelucrare terţilor,TRUE,account.data_account_type_expense
